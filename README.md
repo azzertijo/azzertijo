@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azzertijo&label=Profile%20views&color=0e75b6&style=flat" alt="azzertijo" /> </p>
 
-- 🌱 I’m currently learning **Angular, React and Vue**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **the borderlands saga**
 
